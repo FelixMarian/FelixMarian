@@ -4,7 +4,7 @@
 
 
 ## Software
- [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py,sqlite,matlab,git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py,matlab,git)](https://skillicons.dev)
 
 ## Web
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,)](https://skillicons.dev)
