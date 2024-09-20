@@ -10,4 +10,4 @@
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,)](https://skillicons.dev)
 
 ## IDE
- [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,arduino)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,arduino,pycharm)](https://skillicons.dev)
