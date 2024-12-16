@@ -7,7 +7,7 @@
  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py,matlab,git)](https://skillicons.dev)
 
 ## Web
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ## IDE
- [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,arduino,pycharm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,arduino,pycharm,idea,webstorm)](https://skillicons.dev)
